@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Thiery Chabou
 
-<!--
-**ThieryChabou/ThieryChabou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Data Analyst based in Belgium.  
+Currently strengthening my skills in SQL, Power BI and Python to build data-driven insights and business dashboards.
 
-Here are some ideas to get you started:
+## 🛠 Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **SQL** (Joins, Subqueries, Aggregations)
+- **Power BI** (DAX, Data Modeling, Dashboards)
+- **Python** (Pandas, Data Cleaning, EDA)
+- Data Visualization & KPI Reporting
+
+## 🚀 Current Focus
+
+- Building Business Intelligence dashboards  
+- Improving SQL & Data Modeling skills  
+- Developing practical data projects  
+
+## 📌 Featured Projects (Coming Soon)
+
+- 📊 Sales Performance Dashboard (Power BI)  
+- 🗄 SQL Business Analysis Project  
+- 🐍 Python Exploratory Data Analysis  
+
+## 🌍 Connect With Me
+
+- 🔗 Website: https://thierbeau.com/  
+- 💼 LinkedIn: https://www.linkedin.com/in/thiery-chabou-modjo-0448a7160/
